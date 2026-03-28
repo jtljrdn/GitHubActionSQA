@@ -20,7 +20,7 @@ jobs:
         run: python scripts/verify.py
 
       - name: Print Demo Message
-        run: echo "Hello from GitHub Actions!"
+        run: echo "Hello from GitHub Actions! I am modifying this file..."
 
     
 
