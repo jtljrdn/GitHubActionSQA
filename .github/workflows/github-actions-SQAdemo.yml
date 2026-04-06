@@ -25,4 +25,3 @@ jobs:
 
       # - name: Run Validation
       #   run: python scripts/validate.py
-
